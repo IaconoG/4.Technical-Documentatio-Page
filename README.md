@@ -1,10 +1,7 @@
-# [Crea una pagina de documentacion tecnica] (https://www.freecodecamp.org/espanol/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+# [Crea una pagina de documentacion tecnica](https://www.freecodecamp.org/espanol/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 Objetivo: Crea una aplicación que funcione similar a https://technical-documentation-page.freecodecamp.rocks
 
 
-# Inspiracion
-  - 
-  
 
 # Paginas usadas
 ## Media queries
@@ -16,7 +13,8 @@ Objetivo: Crea una aplicación que funcione similar a https://technical-document
 
 
 ## Accesibilidad
-### [A11y Accecibility](https://kittygiraudel.com/2020/12/01/a11y-advent-calendar/)
+### Blog de accesibilidad 
+  - [A11y Accecibility](https://kittygiraudel.com/2020/12/01/a11y-advent-calendar/)
 ### Anchors
   - https://amberwilson.co.uk/blog/are-your-anchor-links-accessible/
 
