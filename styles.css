@@ -38,6 +38,7 @@ html {
   text-align: justify;
 }
 body {
+  background-color: white;
   width: 100%;
   height: auto;
   display: grid;
